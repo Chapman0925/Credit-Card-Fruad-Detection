@@ -2,6 +2,8 @@
 
 In this project, I will apply machine learning concept to detect whether a transaction is fruadulent or legitimate. I will employ logistic regression as the model and utilizing scikit learn to split the data into training data and testing data in order to develop a efficient model to predict the result
 
+Data Link is from kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 0 represents real transaction
 1 represents fruadulent transaction
 
